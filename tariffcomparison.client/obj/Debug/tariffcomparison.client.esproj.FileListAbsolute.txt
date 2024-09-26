@@ -1,0 +1,1 @@
+E:\ASP.NET Applications\TariffComparison\tariffcomparison.client\obj\Debug\tariffcomparison.client.esproj.CoreCompileInputs.cache

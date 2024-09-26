@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  tariffcomparison.server:
+    image: ${DOCKER_REGISTRY-}tariffcomparisonserver
+    build:
+      context: .
+      dockerfile: TariffComparison.Server/Dockerfile

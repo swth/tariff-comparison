@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "ov2d20BZ+X0lzvtSvBXWEKeRTlz6Hqsr/9uHZ0qOBW8=",
+  "Source": "TariffComparison.Server",
+  "BasePath": "_content/TariffComparison.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "E:\\ASP.NET Applications\\TariffComparison\\tariffcomparison.client\\tariffcomparison.client.esproj",
+      "Version": 2,
+      "Source": "tariffcomparison.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
