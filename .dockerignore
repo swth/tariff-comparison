@@ -28,3 +28,10 @@ README.md
 !.git/config
 !.git/packed-refs
 !.git/refs/heads/**
+
+# Ignore the node_modules folder for the React app
+tariffcomparison.client/node_modules
+
+# Ignore build artifacts from the .NET API
+TariffComparison.Server/bin
+TariffComparison.Server/obj
